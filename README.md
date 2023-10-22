@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Página de Felipe</title>
+   
 </head>
 <body>
 <table style="width: 100%;">
