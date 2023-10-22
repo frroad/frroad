@@ -4,14 +4,7 @@
     <meta charset="UTF-8">
     
    
-        table {
-            width: 100%;
-            height: 100%;
-            border: 0;
-        }
-        td {
-            border: 0;
-        }
+       
     
 </head>
 <body>
