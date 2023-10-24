@@ -10,7 +10,7 @@
 <table>
     <tr>
         <td>
-            <h1 align="left">Bem vindo!</h1>
+            <h1 align="left">Bem vindo(a)!</h1>
             <p align="left">Meu nome é Felipe, sou estudante de análise e desenvolvimento de sistemas.</p>
             <h2 align="left">Habilidades em desenvolvimento:</h2>
             <div align="left">
