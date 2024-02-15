@@ -2,8 +2,6 @@
 
 Meu nome é Felipe, sou estudante de análise e desenvolvimento de sistemas.
 
-<img align="right" src="https://clipart.com/thumbs.php?f=/665/batch_18/000665-0018-000273_tnb.png" width="150">
-
 
 
 ## Habilidades em Desenvolvimento
