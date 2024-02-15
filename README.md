@@ -2,7 +2,7 @@
 
 Meu nome é Felipe, sou estudante de análise e desenvolvimento de sistemas.
 
-<img align="right" src="https://clipart.com/thumbs.php?f=/162/batch_01/abstract_binary_skull_on_black_background_tnb.png" width="150">
+<img align="right" src="https://clipart.com/thumbs.php?f=/665/batch_18/000665-0018-000273_tnb.png" width="150">
 
 
 
