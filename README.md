@@ -2,7 +2,9 @@
 
 Meu nome é Felipe, sou estudante de análise e desenvolvimento de sistemas.
 
-<img align="right" src="https://clipart-library.com/2023/54-549657_beard-clipart-mouth-bearded-vegeta.png" width="150">
+<img align="right" src="https://clipart.com/thumbs.php?f=/162/batch_01/abstract_binary_skull_on_black_background_tnb.png" width="150">
+
+
 
 ## Habilidades em Desenvolvimento
 
