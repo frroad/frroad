@@ -20,4 +20,4 @@ Meu nome é Felipe, sou estudante de análise e desenvolvimento de sistemas.
 
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Iniciante-green?style=for-the-badge)](https://frroad.github.io/portifolio/)
 
-![Snake animation](https://github.com/frroad/github-profile-snake.svg)
+
