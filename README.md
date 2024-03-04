@@ -20,8 +20,4 @@ Meu nome é Felipe, sou estudante de análise e desenvolvimento de sistemas.
 
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Iniciante-green?style=for-the-badge)](https://frroad.github.io/portifolio/)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+uses: Platane/snk/svg-only@v3
