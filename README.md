@@ -36,4 +36,3 @@ Olá, eu sou Felipe, 33 anos, estudante de análise e desenvolvimento de sistema
   
 # ![snake gif](https://github.com/frroad/frroad/blob/output/github-contribution-grid-snake.gif)
   
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
