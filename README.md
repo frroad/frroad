@@ -1,6 +1,6 @@
 # Bem-vindo(a)! 👋
 
-Olá, eu sou Felipe, 33 anos, estudante de análise e desenvolvimento de sistemas. Este é o meu espaço no GitHub, onde compartilho meus projetos e exploro o mundo da programação.
+Olá eu sou Felipe, 33 anos, estudante de análise e desenvolvimento de sistemas. Este é o meu espaço no GitHub, onde compartilho meus projetos e exploro o mundo da programação.
 
 
 <div>
